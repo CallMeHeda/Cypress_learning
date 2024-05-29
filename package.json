@@ -1,0 +1,27 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Learning Cypress",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallMeHeda/Cypress_learning.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Fatima EL-AMRI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallMeHeda/Cypress_learning/issues"
+  },
+  "homepage": "https://github.com/CallMeHeda/Cypress_learning#readme",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  }
+}
